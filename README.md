@@ -2,7 +2,7 @@
 
 more details coming soon
 
-below are screenshots of a draft of a Force-velocity profile I made for our athletes at work (name, date, 1 rep maxes , adn data points have been modifed for privacy)
+below are screenshots of a draft of a Force-velocity profile I made for our athletes at work (name, date, 1 rep maxes , and data points have been modifed for anonymity)
 
 Image 1: Overview view of FVP for Squat, Bench Press, and Power Clean over the entire data colletion period
 ![Screenshot 2023-11-20 083647](https://github.com/heranwang/Power-BI-Dashboard-Force-Velocity-Profile/assets/148338886/c706d623-1d28-40cf-8f1e-1cb9727deeb2)
